@@ -1,0 +1,26 @@
+Exercice 1
+
+1) il existe deux branches:
+
+gh-pages et spdx-license-templates
+
+Exercice 2
+
+1) #677
+
+2) la pull request #550 contient 2 commit
+
+3)
+numero:549
+nombre de commit: 2
+auteur: jsoref Josh Soref
+
+Exercice 3
+
+1) git reset index.html
+2)auto-complete.min.js
+3) git diff b30306e502b99aabab256a5d2f68e8d50ba5072a
+
+
+exercice 4 ) 
+2) git fetch
